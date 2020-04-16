@@ -12,7 +12,7 @@ sudo apt update && sudo apt -y upgrade
 sudo apt -y install ubuntu-restricted-extras
 
 # install apps
-sudo apt -y install vlc tlp tlp-rdw bleachbit
+sudo apt -y install vlc tlp tlp-rdw bleachbit unity-tweak-tools
 
 # start tlp
 sudo tlp start
